@@ -184,4 +184,24 @@ header p, footer p {
 }
 
 
+/* CONTACT */
+.contact {
+    padding: 30px 50px;
+    background-color: #d8e9e7;
+    display: flex;
+    
+}
+
+.contact a {
+    color: black;
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 20px;
+    transition: all .5s;
+}
+
+.contact a:hover {
+    color: red;
+}
+
 
