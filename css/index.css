@@ -209,7 +209,7 @@ header p, footer p {
 
 
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 579px) {
     .center {
         width: 80%;
     }
@@ -248,8 +248,9 @@ header p, footer p {
     }
 
     .info__area img {
-        width: 80%;
+        width: 100%;
         margin-bottom: 30px;
+        border-radius: 2px;
     }
 
     .productTitle {
