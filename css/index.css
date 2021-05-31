@@ -210,6 +210,9 @@ header p, footer p {
 
 
 @media screen and (max-width: 576px) {
+    .center {
+        width: 80%;
+    }
     header {
         background-attachment: unset;
         background-position: right;    
