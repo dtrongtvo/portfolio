@@ -265,6 +265,7 @@ header p, footer p {
 
     .productSection a {
         padding: 10px 20px;
+        width: unset;
     }
 
     .productSection p {
@@ -281,6 +282,8 @@ header p, footer p {
     .productSection h3::after {
         margin-top: 10px;
     }
+
+    
 
     .contact {
         padding: 20px;
