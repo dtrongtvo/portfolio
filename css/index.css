@@ -125,7 +125,8 @@ header p, footer p {
     font-size: 4rem;
     letter-spacing: 4px;
     transition: all 1.5s;
-    transform: translateY(250px);
+    text-align: center;
+    transform: translateY(50%);
 }
 
 .productSection:hover h3 {
